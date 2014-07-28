@@ -22,7 +22,7 @@ github,wooyun等常用账号: codejm
 * memcache/redis nosql使用
 * python 脚本开发
 * yii,yaf,php-simple-mvc(自己开发的框架)等框架的使用
-* twig等开源程序的使用
+* twig,PHPExcel等开源程序的使用
 * discuz二次开发插件,模版等
 
 ## 其他技能
