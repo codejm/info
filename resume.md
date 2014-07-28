@@ -24,6 +24,7 @@ github,wooyun等常用账号: codejm
 * yii,yaf,php-simple-mvc(自己开发的框架)等框架的使用
 * twig,PHPExcel等开源程序的使用
 * discuz二次开发插件,模版等
+* 熟练使用git,svn,XDebug,phpdoc,composer等辅助开发工具
 
 ## 其他技能
 
