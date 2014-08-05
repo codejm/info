@@ -24,13 +24,13 @@ github,wooyun等常用账号: codejm
 
 ## 基本技能
 
-* LNMP开发,环境编译搭建
-* memcache/redis nosql使用,了解mongodb,ssdb等nosql数据库
+* LNMP开发,环境编译搭建,扩展编译安装
+* 熟练使用memcached/redis nosql使用,了解mongodb,ssdb等nosql数据库
 * 熟悉RPC,REST Api架构编程
-* python 脚本开发，后端耗时任务队列数据处理
 * yii,yaf,php-simple-mvc(自己开发的框架)等框架的使用
 * twig,PHPExcel,phpunit等开源程序的使用
 * discuz二次开发插件,模版等
+* python 脚本开发，后端耗时任务队列数据处理
 * 熟练使用git,svn,XDebug,phpdoc,composer等辅助开发工具
 
 ## 其他技能
