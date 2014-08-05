@@ -24,11 +24,12 @@ github,wooyun等常用账号: codejm
 
 ## 基本技能
 
-* lnmp开发,环境编译搭建
-* memcache/redis nosql使用
-* python 脚本开发
+* LNMP开发,环境编译搭建
+* memcache/redis nosql使用,了解mongodb,ssdb等nosql数据库
+* 熟悉RPC,REST Api架构编程
+* python 脚本开发，后端耗时任务队列数据处理
 * yii,yaf,php-simple-mvc(自己开发的框架)等框架的使用
-* twig,PHPExcel等开源程序的使用
+* twig,PHPExcel,phpunit等开源程序的使用
 * discuz二次开发插件,模版等
 * 熟练使用git,svn,XDebug,phpdoc,composer等辅助开发工具
 
@@ -41,8 +42,8 @@ github,wooyun等常用账号: codejm
 
 #### 青岛新闻网 (2012-08 至 今)
 
-* 负责青青岛社区代码重构,redis缓存架构,redis主从. 图集,专题,编辑器等功能开发
-* 负责编写新闻网多个客户端后台接口及数据分析.
+* 负责青青岛社区代码重构,redis缓存存储架构,redis主从. 图集,专题等功能开发
+* 负责编写新闻网多个客户端后台接口及数据分析，例如青岛公交客户端，社区客户端等后端接口，坐公交车人群地图热点分布，广告分析统计等.
 
 #### 半岛网 (2012-01 至 2012-07)
 
